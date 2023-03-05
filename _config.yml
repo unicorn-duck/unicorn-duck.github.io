@@ -1,0 +1,31 @@
+title: "Опоссумий вестник"
+email: alexander.gomzyakov@gmail.com
+timezone: UTC
+baseurl: "/"
+permalink: "/:title/"
+author: mi_marimoon
+paginate: 30
+disqus: 'gomzyakov'
+locale: ru_ru
+lang: ru_ru
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    disable: false
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
