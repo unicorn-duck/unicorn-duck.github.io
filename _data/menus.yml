@@ -4,14 +4,14 @@ topmenu:
 - title: Главная
   url: ""
 
-- title: Обо мне
+- title: О вестнике
   url: "about/"
 
 - title: Контакты
   url: "contact/"
 
 - title: Этот блог на GitHub
-  url: https://github.com/gomzyakov/gomzyakov.github.io
+  url: https://github.com/gomzyakov/opossums-herald
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -28,5 +28,5 @@ footermenu:
   url: "contact/"
 
 - title: Этот блог на GitHub
-  url: https://github.com/gomzyakov/gomzyakov.github.io
+  url: https://github.com/gomzyakov/opossums-herald
   external: true

@@ -1,9 +1,9 @@
-title: "PHP + Laravel"
+title: "Опоссумий вестник"
 email: alexander.gomzyakov@gmail.com
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
-author: gomzyakov
+author: mi_marimoon
 paginate: 30
 disqus: 'gomzyakov'
 locale: ru_ru
