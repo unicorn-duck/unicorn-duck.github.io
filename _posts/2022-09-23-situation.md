@@ -3,7 +3,7 @@ layout: post
 title:  "Опоссумий вестник №7 за 23.09.2022"
 author: gomzyakov
 categories: [ opossum ]
-image: assets/images/
+image: assets/images/2022-09-23/img.png
 ---
 
 ![img.png](../assets/images/2022-09-23/img.png)
