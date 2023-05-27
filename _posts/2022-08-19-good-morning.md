@@ -3,7 +3,7 @@ layout: post
 title:  "Опоссумий вестник №3 за 19.08.2022"
 author: gomzyakov
 categories: [ opossum ]
-image: assets/images/2022-08-19/img.png
+image: assets/images/2022-08-19/img_1.png
 ---
 
 ![img.png](../assets/images/2022-08-19/img.png)

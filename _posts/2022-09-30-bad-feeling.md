@@ -3,7 +3,7 @@ layout: post
 title:  "Опоссумий вестник №8 за 30.09.2022"
 author: gomzyakov
 categories: [ opossum ]
-image: assets/images/2022-09-30/img.png
+image: assets/images/2022-09-30/img_1.png
 ---
 
 ![img.png](../assets/images/2022-09-30/img.png)
