@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Опоссумий вестник №14 за 02.02.2023"
+description:  "Опоссумий вестник №14 за 02.02.2023"
+date: 2023-02-02
 author: gomzyakov
-categories: [ opossum ]
-image: assets/images/2023-02-02/photo_2023-02-02_11-33-01.jpg
+tags: [ opossum ]
+feature_image: assets/images/2023-02-02/photo_2023-02-02_11-33-01.jpg
 ---
 
 ## ДОБРЫЙ ДЕНЬ!

@@ -2,11 +2,10 @@
 layout: post
 title:  "Опоссумий вестник №1 за 03.08.2022"
 description: "Опоссумий вестник №1 за 03.08.2022"
-date: 2019-01-01
+date: 2022-08-03
 feature_image: assets/images/2022-08-03/img.png
 tags:  [ opossum ]
 ---
-
 
 Снова нашла твою фотку в интернете.
 

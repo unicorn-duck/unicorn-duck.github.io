@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Опоссумий вестник №11 за 10.11.2022"
+description:  "Опоссумий вестник №11 за 10.11.2022"
+date: 2022-11-10
 author: gomzyakov
-categories: [ opossum ]
-image: assets/images/2022-11-10/img_1.png
+tags: [ opossum ]
+feature_image: assets/images/2022-11-10/img_1.png
 ---
 
 ![img.png](../assets/images/2022-11-10/img.png)

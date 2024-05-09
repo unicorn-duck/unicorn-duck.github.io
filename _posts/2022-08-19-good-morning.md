@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Опоссумий вестник №3 за 19.08.2022"
+description:  "Опоссумий вестник №3 за 19.08.2022"
+date: 2022-08-19
 author: gomzyakov
-categories: [ opossum ]
-image: assets/images/2022-08-19/img_1.png
+tags: [ opossum ]
+feature_image: assets/images/2022-08-19/img_1.png
 ---
 
 ![img.png](../assets/images/2022-08-19/img.png)
