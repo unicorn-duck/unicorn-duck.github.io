@@ -1,31 +1,71 @@
-title: "Опоссумий вестник"
-email: alexander.gomzyakov@gmail.com
-timezone: UTC
-baseurl: "/"
-permalink: "/:title/"
-author: gomzyakov
-paginate: 30
-disqus: 'gomzyakov'
-locale: ru_ru
-lang: ru_ru
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
+# Config based on https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/blob/master/_config.yml
+remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme
+
+# Site language
+lang: ru
+
+# Site title
+title: "Octocorn"
+
+# A description of your site for meta tag, search engine results.
+description: "Заметки о программировании"
+
+# The subpath of your site, e.g. /blog, for generating urls.
+baseurl: ""
+
+# The base hostname & protocol of your site for where absolute urls are needed.
+url: "https://octocorn.github.io"
+
+# Favicon
+favicon: images/favicon.png
+
+# Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# Site navigation - each item must have a title and a url.
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Style Guide
+    url: /style-guide/
+  - text: Tags
+    url: /tags/
+  - text: Download
+    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+
+# The shortname for your Disqus site to enable comments.
+disqus: gomzyakov
+
+# Colors
+accent_color: '#2d72d9'
+
+# Site footer
+footer:
+  content: "Made with ♥ by [@gomzyakov](https://github.com/gomzyakov)"
+  has_social: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 3
+paginate_path: '/page:num/'
+
+# Permalinks
+permalink: /:title
+
+# Conversion
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     disable: false
-highlighter: rouge
+
+# Sass
 sass:
   sass_dir: _sass
   style: compressed
-
-# Plugins
-plugins:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-archives
