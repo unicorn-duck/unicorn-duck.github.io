@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Опоссумий вестник №7 за 23.09.2022"
+description:  "Опоссумий вестник №7 за 23.09.2022"
+date: 2022-09-23
 author: gomzyakov
-categories: [ opossum ]
-image: assets/images/2022-09-23/img_1.png
+tags: [ opossum ]
+feature_image: assets/images/2022-09-23/img_1.png
 ---
 
 ![img.png](../assets/images/2022-09-23/img.png)

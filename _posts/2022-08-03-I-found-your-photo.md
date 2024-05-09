@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Опоссумий вестник №1 за 03.08.2022"
-author: gomzyakov
-categories: [ opossum ]
-image: assets/images/2022-08-03/img.png
+description: "Опоссумий вестник №1 за 03.08.2022"
+date: 2022-08-03
+feature_image: assets/images/2022-08-03/img.png
+tags:  [ opossum ]
 ---
 
 Снова нашла твою фотку в интернете.

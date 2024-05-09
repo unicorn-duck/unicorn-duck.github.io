@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Опоссумий вестник №2 за 11.08.2022"
+description:  "Опоссумий вестник №2 за 11.08.2022"
+date: 2022-08-11
 author: gomzyakov
-categories: [ opossum ]
-image: assets/images/2022-08-11/img_1.png
+tags: [ opossum ]
+feature_image: assets/images/2022-08-11/img_1.png
 ---
 
 ## ДОБРЫЙ ДЕНЬ!
